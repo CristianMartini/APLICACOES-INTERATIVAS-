@@ -1,0 +1,9 @@
+
+.titulo__principal {
+    font-family: var(--font-noto-sans);
+    font-size: var(--txt-large);
+}
+.second__title{
+    font-family: var(--font-caprasimo);
+    font-size: var(--txt-small);
+}
