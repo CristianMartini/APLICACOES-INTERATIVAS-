@@ -3,7 +3,8 @@
     font-family: var(--font-noto-sans);
     font-size: var(--txt-large);
 }
-.second__title{
-    font-family: var(--font-caprasimo);
+.txt__small{
+    font-family: var(--font-noto-sans);
     font-size: var(--txt-small);
+    font-weight: 300;
 }

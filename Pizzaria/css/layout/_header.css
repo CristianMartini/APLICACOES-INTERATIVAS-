@@ -1,0 +1,17 @@
+header{
+    display: grid;
+    grid-template-columns: repeat(12,1fr);
+    grid-template-rows: 56px 56px auto;
+}
+nav{
+    grid-row-start: 1;
+    grid-column: 1/12;
+}
+.mensagem__principal{
+    grid-column: 2/6;
+    grid-column-start: 3;
+}
+.imagem__principal{
+    grid-column: 8/12;
+    grid-row-start: 3;
+}
