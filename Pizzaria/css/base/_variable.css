@@ -9,5 +9,7 @@
     --txt-large:32px;
     --txt-mediunm:24px;
     --txt-small:16px;
+    --color-white: white;
+    --color-black: black;
     /*usar regra do multiplo de 8 */
 }
