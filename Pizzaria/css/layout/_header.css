@@ -35,3 +35,17 @@ nav{
     z-index: -1;
 
 }
+@media (max-width:800px) {
+    .div__arredondada{
+        display: none;
+
+    }
+    header{
+        display: flex;
+        flex-direction: column;
+    }
+    .imagem__principal{
+        grid-column: 9/12;
+        grid-row-start: 4;
+    }
+}
